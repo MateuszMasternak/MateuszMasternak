@@ -1,5 +1,5 @@
 # 👋Hi, my name is Mateusz Masternak:
-- 👨‍💻 I’m a 1st year computer science student at PJATK.
+- 👨‍💻 I’m a 1st year computer science student at [PJAIT](https://pja.edu.pl/).
 - 🌱 Currently focused on learning web development in technologies such as Django and JavaScript.
 - 📫 Contact me at: masternak.mateusz1@gmail.com
  
