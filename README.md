@@ -18,7 +18,8 @@
 - CSS<img src="https://user-images.githubusercontent.com/113989577/195917361-c0afb3bb-06c3-458c-9f64-41444f3f4300.png" width="20">  
 - Bootstrap <img src="https://user-images.githubusercontent.com/113989577/195927768-05a81249-e2c7-409a-8435-692b338c8d31.png" width="20">  
 - SQLite <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" width="15">  
-- PostgreSQL<img src="https://user-images.githubusercontent.com/113989577/195916998-d016e522-302c-4890-b1ac-9e4c65ae7f03.png" width="20"> 
+- PostgreSQL<img src="https://user-images.githubusercontent.com/113989577/195916998-d016e522-302c-4890-b1ac-9e4c65ae7f03.png" width="20">
+- I also know a bit of C and Java.
 <br>
 
 ## 💻My latest projects:
