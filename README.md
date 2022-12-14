@@ -3,7 +3,7 @@
 - 🌱 Currently focused on learning web development in technologies such as Django and JavaScript.
 - 📫 Contact me at: masternak.mateusz1@gmail.com
  
-[![Mateusz Masternak's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateuszMasternak&show_icons=true&theme=dracula&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Mateusz Masternak's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateuszMasternak&show_icons=true&theme=dracula&count_private=true&hide=stars,prs,issues,contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
