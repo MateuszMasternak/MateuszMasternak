@@ -3,13 +3,13 @@
 - 🌱 Currently focused on learning web development in technologies such as Django and JavaScript.
 - 📫 Contact me at: masternak.mateusz1@gmail.com
  
-[![Mateusz Masternak's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateuszMasternak&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Mateusz Masternak's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateuszMasternak&show_icons=true&theme=dracula&count_private=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
 ## 🛠My stack:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszMasternak&layout=compact&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszMasternak&layout=compact&theme=dracula&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 - Python <img src="https://user-images.githubusercontent.com/113989577/195915225-f7a51108-c25f-4e79-9b4e-77e90f3e6499.png" width="20">  
 - Django <img src="https://user-images.githubusercontent.com/113989577/195916338-aac36a28-5222-4525-84ff-223923605b2c.png" width="20">  
