@@ -5,4 +5,4 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mateuszmasternak/).
 
 
-### [![Top Langs](https://github-readme-stats-ivory-one-80.vercel.app/api/top-langs/?username=MateuszMasternak&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats?theme=dark)
+### ![Top Langs](https://github-readme-stats-ivory-one-80.vercel.app/api/top-langs/?username=MateuszMasternak&theme=dark&hide_progress=true&hide=PowerShell)
